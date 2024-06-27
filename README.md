@@ -51,4 +51,4 @@ _Associate Degree_
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vasilsemuk.vasilsemuk)
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=vasilsemuk.vasilsemuk&color=55acb7&style=for-the-badge&format=true&logo=Github)
